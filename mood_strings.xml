@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoodMusicApp</string>
+    <string name="music_image_desc">Mood image</string>
+
+    <string-array name="mood_list">
+        <!-- original 4 + 10 new moods + 3 languages -->
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Calm</item>
+        <item>Angry</item>
+
+        <!-- 10 more moods -->
+        <item>Energetic</item>
+        <item>Romantic</item>
+        <item>Nostalgic</item>
+        <item>Party</item>
+        <item>Focused</item>
+        <item>Sleepy</item>
+        <item>Motivated</item>
+        <item>Melancholic</item>
+        <item>Chill</item>
+        <item>Instrumental</item>
+
+        <!-- language-specific quick options -->
+        <item>Kannada</item>
+        <item>Telugu</item>
+        <item>Tamil</item>
+    </string-array>
+</resources>
